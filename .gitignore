@@ -14,7 +14,7 @@ start_time = time()
 engine = pyttsx3.init()
 
 # name of the virtual assistant
-name = 'Harmony'
+name = 'RUTH'
 attemts = 0
 
 # keys
